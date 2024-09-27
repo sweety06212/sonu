@@ -1,0 +1,38 @@
+.class{
+    color: red;
+}
+*{
+    text-align: center;
+    text-shadow: 4px 4px 4px rgb(234, 145, 11);
+}
+body{
+    background-color: aquamarine;
+}
+
+#div1{
+    height: 100px;
+    width: 100px;
+    padding: 6px;
+    margin: 10px;
+    background-color: darkgoldenrod;
+    border: 4px solid brown;
+    border-radius: 40%;
+}
+
+#div2{
+    height: 150px;
+    width: 125px;
+    padding: 5px;
+    margin: 10px;
+    background-color: chartreuse;
+    border: 5px solid green;
+    border-radius: 12%;
+}
+#div3{
+     height: 500px;
+     width: 150px;
+     padding-top: 0cqb;
+     margin: 15px;
+    background-color: aquamarine;
+    border: 5px solid green;
+}
